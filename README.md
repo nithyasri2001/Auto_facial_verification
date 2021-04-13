@@ -12,6 +12,3 @@ Language:
 
     * HTML5
     
-OUTPUT:
-
-   <img width="476" alt="output_html" src="https://user-images.githubusercontent.com/68546370/114520099-b3109780-9c5e-11eb-943b-56b0af196e0a.png">
